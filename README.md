@@ -38,8 +38,8 @@ Uygulamanın tamamı **Windows 98 retro masaüstü temasına** (3D-relief bileş
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone https://github.com/hllmltyl/Etkilesimli-Kriptanaliz.git
-cd Etkilesimli-Kriptanaliz
+git clone https://github.com/hllmltyl/Etkilesimli-Kripto-Platform.git
+cd Etkilesimli-Kripto-Platform
 ```
 
 ### 2. Sanal Ortamı Oluşturun ve Aktifleştirin
@@ -76,7 +76,7 @@ python tests.py
 ## 📁 Proje Klasör Yapısı
 
 ```txt
-📂 Etkilesimli-Kriptanaliz/
+📂 Etkilesimli-Kripto-Platform/
 ├── 📄 main.py            # Arayüz pencerelerini ve animasyon kontrol mekanizmalarını yönetir.
 ├── 📄 crypto_logic.py    # Şifreleme algoritmalarının ve istatistiksel testlerin şifreleme motoru.
 ├── 📄 analysis_logic.py  # Matplotlib kütüphanesini kullanarak durum matrislerini ve grafikleri çizen çizim motoru.

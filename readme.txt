@@ -15,7 +15,7 @@ Sanal ortamınızın (.venv) aktif olduğundan emin olun ve terminalde şu komut
 ```
 
 ### Uygulamayı Çalıştırma
-Proje dizininde (`d:\Dosyalar\Mobil\Etkilesimli Kriptanaliz\Kriptanaliz`) arayüzü başlatmak için:
+Proje dizininde (`d:\Dosyalar\Mobil\Etkilesimli Kriptanaliz`) arayüzü başlatmak için:
 ```powershell
 .venv\Scripts\python.exe main.py
 ```
