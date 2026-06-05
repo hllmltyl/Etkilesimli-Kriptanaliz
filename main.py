@@ -153,7 +153,7 @@ class CryptoApp(tk.Tk):
         scrollbar = ttk.Scrollbar(frame)
         scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         
-        text_widget = tk.Text(frame, wrap=tk.WORD, bd=0, yscrollcommand=scrollbar.set, bg="white", font=("{MS Sans Serif}", 9.5))
+        text_widget = tk.Text(frame, wrap=tk.WORD, bd=0, yscrollcommand=scrollbar.set, bg="white", fg="black", font=("{MS Sans Serif}", 9))
         text_widget.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         scrollbar.config(command=text_widget.yview)
         
